@@ -1,5 +1,5 @@
 _repo: Three-short-stories-from-THE-CAPTAIN-volume-XXVII-How-Dymock-Came-to-Derry-Jack-Devereux-s-Sc__57533
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Soper, George
@@ -15,6 +15,9 @@ contributor:
     deathdate: 1937
     gutenberg_agent_id: '9707'
     url: http://www.gutenberg.org/2009/agents/9707
+covers:
+- cover_type: archival
+  image_path: 57533-h/images/01_cover.jpg
 creator:
   author:
     agent_name: Westerman, Percy F. (Percy Francis)
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32140
     wikipedia: http://en.wikipedia.org/wiki/Percy_F._Westerman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57533#Three-short-stories-from-THE-CAPTAIN-volume-XXVII-How-Dymock-Came-to-Derry-Jack-Devereux-s-Sc_
 gutenberg_issued: '2018-07-18'
 gutenberg_type: Text
 identifiers:
